@@ -1,0 +1,6 @@
+H:\КА ШАГ\домашка\C#\9\9\bin\Debug\9.exe.config
+H:\КА ШАГ\домашка\C#\9\9\bin\Debug\9.exe
+H:\КА ШАГ\домашка\C#\9\9\bin\Debug\9.pdb
+H:\КА ШАГ\домашка\C#\9\9\obj\Debug\9.csprojResolveAssemblyReference.cache
+H:\КА ШАГ\домашка\C#\9\9\obj\Debug\9.exe
+H:\КА ШАГ\домашка\C#\9\9\obj\Debug\9.pdb

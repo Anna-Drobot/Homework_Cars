@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Other
+*.sln
+*.csproj
+*.config
+*.cd
+*.pdb
+*.cache
+9.csproj.FileListAbsolute.txt
